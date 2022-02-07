@@ -13,5 +13,4 @@ toc_sticky: true
 date: 2022-02-07
 last_modified_at: 2022-02-07
 ---
-
-## Github Blog Repository 생성
+# Github Blog Repository 생성
